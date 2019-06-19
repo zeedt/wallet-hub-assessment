@@ -1,0 +1,1 @@
+Class-Path: ./../jre/lib/ext/mysql-connector-java-5.1.46.jar
